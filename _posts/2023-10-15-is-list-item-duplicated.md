@@ -13,6 +13,7 @@ author: rezgar
 I had recently to check while developing some new features, if the item is duplicated before triggering a backend request to save some time, so I wrote a generic function to check the duplication using Typescript.
 
 **The isListPropertyDuplicated Function:**
+
 The **`isListPropertyDuplicated`** function is a utility that allows you to determine if an array contains duplicate elements based on a specified property and a value. It has the following signature:
 
 ```jsx

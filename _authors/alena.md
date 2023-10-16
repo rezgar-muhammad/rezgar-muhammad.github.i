@@ -1,11 +1,10 @@
 ---
-username: alena
-name: Alena Curtis
+username: nurjin
+name: Nurjin Jafar
 image: '/images/01-1.jpg'
 cover:
-location: Mexico
-website: https://www.google.com
+location: Hamburg
 twitter: https://twitter.com
 facebook: https://www.facebook.com
 ---
-I have experience in photographing beauty, fashion, e-commerce, and product photography for various brands.
+I have experience in Software engineering, photographing beauty, and fashion.

@@ -100,8 +100,7 @@ footer__description: you can reach me using different social accounts here
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://facebook.com"}
+- {icon: "twitter", link: "https://twitter.com/Rezgar_muhammad"}
 - {icon: "codepen", link: "https://codepen.io"}
 - {icon: "pinterest", link: "https://pinterest.com"}
 - {icon: "vimeo", link: "https://vimeo.com"}

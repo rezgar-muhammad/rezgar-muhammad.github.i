@@ -4,7 +4,7 @@ name: rezgar muhammad
 image: '/images/RezgarMk.jpg'
 cover:
 location: Hamburg
-twitter: https://twitter.com
-facebook: https://www.facebook.com
+twitter: https://twitter.com/Rezgar_muhammad
+linkedin: https://www.linkedin.com/in/rezgar-muhammad-9878b5a6/
 ---
-I have experience in photographing beauty, fashion, e-commerce, and product photography for various brands.
+Experienced software engineer who likes to solve problems. I want to 
